@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samarth Parekh
 
-🚀 Frontend Developer | 🌐 React Enthusiast | 🔧 PHP & MySQL Explorer
+🚀 Frontend Developer | 🌐 React  | 🔧 PHP & MySQL Explorer
 I craft clean, responsive, and accessible web experiences — blending design with logic.
 
 💡 Currently working with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, and **MySQL**
